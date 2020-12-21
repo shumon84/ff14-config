@@ -140,7 +140,7 @@ HotbarWXHB8Button	1
 HotbarWXHB8ButtonPvP	1
 HotbarWXHBSetInputTime	40
 HotbarWXHBDisplay	1
-HotbarWXHBFreeLayout	0
+HotbarWXHBFreeLayout	1
 HotbarXHBActiveTransmissionAlpha	0
 HotbarXHBAlphaDefault	0
 HotbarXHBAlphaActiveSet	0
@@ -426,7 +426,7 @@ BuffDispType	0
 ContentsFinderListSortType	0
 ContentsFinderSupplyEnable	0
 EnemyListCastbarEnable	1
-AchievementAppealLoginDisp	1
+AchievementAppealLoginDisp	0
 ContentsFinderUseLangTypeJA	1
 ContentsFinderUseLangTypeEN	0
 ContentsFinderUseLangTypeDE	0
