@@ -1,6 +1,6 @@
-BattleEffectSelf	1
-BattleEffectParty	1
-BattleEffectOther	1
+BattleEffectSelf	0
+BattleEffectParty	0
+BattleEffectOther	0
 
 <GamePad Settings>
 PadMode	1
@@ -8,7 +8,7 @@ PadMode	1
 <UI Settings>
 
 <Charcter Settings>
-WeaponAutoPutAway	1
+WeaponAutoPutAway	0
 WeaponAutoPutAwayTime	3
 LipMotionType	1
 
